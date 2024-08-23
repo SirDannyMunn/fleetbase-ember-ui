@@ -1012,7 +1012,8 @@ body[data-theme='dark'] .next-content-panel-wrapper .next-content-panel-containe
 }
 
 .next-view-header {
-    display: flex;
+    display:none;
+    /* display: flex;
     box-align: center;
     align-items: center;
     justify-content: space-between;
@@ -1024,7 +1025,7 @@ body[data-theme='dark'] .next-content-panel-wrapper .next-content-panel-containe
     -moz-user-select: none;
     user-select: none;
     -webkit-user-select: none;
-    -webkit-app-region: drag;
+    -webkit-app-region: drag; */
 }
 
 .next-view-header .next-view-header-left {
