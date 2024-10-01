@@ -1012,8 +1012,7 @@ body[data-theme='dark'] .next-content-panel-wrapper .next-content-panel-containe
 }
 
 .next-view-header {
-    display:none;
-    /* display: flex;
+    display: flex;
     box-align: center;
     align-items: center;
     justify-content: space-between;
@@ -1025,7 +1024,7 @@ body[data-theme='dark'] .next-content-panel-wrapper .next-content-panel-containe
     -moz-user-select: none;
     user-select: none;
     -webkit-user-select: none;
-    -webkit-app-region: drag; */
+    -webkit-app-region: drag;
 }
 
 .next-view-header .next-view-header-left {
@@ -2027,8 +2026,3 @@ body[data-theme='dark'] .x-fleetbase-file > .x-fleetbase-file-wrapper {
 .x-fleetbase-file > .x-fleetbase-file-wrapper .x-fleetbase-file-actions #x-fleetbase-file-actions-dropdown .ember-basic-dropdown-trigger button.btn {
     padding: 0.15rem 0.65rem;
 }
-/* 
-#map-topbar-container > div > svg {
-    display:none;
-
-} */
